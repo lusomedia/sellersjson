@@ -1,0 +1,37 @@
+{
+  "contact_email": "ops@luso.gg",
+  "contact_address": "Luso Media, Ltd. Co 5900 \"Balcones Dr, Ste 100 Austin, TX 78731",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "1001",
+      "name": "Now.gg, Inc.",
+      "domain": "now.gg",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1002",
+      "name": "Medal.tv",
+      "domain": "medal.tv",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1003",
+      "name": "MMO Culture",
+      "domain": "mmoculture.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1004",
+      "name": "Famvia Travel",
+      "domain": "famvia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1005",
+      "name": "I Could Eat! Inc.",
+      "domain": "icouldeat.net",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}
